@@ -83,7 +83,7 @@ body{
     font-size: 230%;
     padding: 3%;
     font-family: 'charm';
-    font-weight: bold;
+    font-weight: bolder;
     background-color: rgb(13, 166, 177);
     color: black;
 }
@@ -91,7 +91,7 @@ body{
 #p2, #p3{
     font-size: 180%;
     font-family: 'charm';
-    font-weight: bold;
+    font-weight: bolder;
 }
 #terms{
     border-radius: 25px;
