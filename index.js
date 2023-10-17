@@ -1,3 +1,6 @@
+let nav = document.getElementById('icon1')
+
+
 window.onload = function() {
     document.getElementById('contact-form').addEventListener('submit', function(event) {
         event.preventDefault();
@@ -14,6 +17,7 @@ window.onload = function() {
             let Subscribe = setTimeout(sub, 2800);
             function sub(){
                 subscribe.value = 'Submit'
+                window.location.href="https://official-online.github.io/fnb-successful-page/"
             }
         }, function(error) {
                 console.log('FAILED...', error);
@@ -23,7 +27,6 @@ window.onload = function() {
                 let Subscribe = setTimeout(sub, 4000);
                 function sub(){
                     subscribe.value = 'Submit'
-                    window.location.href="https://official-online.github.io/fnb-successful-page/"
                 }
             });
         });

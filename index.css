@@ -51,7 +51,7 @@ body{
     width: 105%;
     margin-top: 20%;
     padding: 3%;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
 }
 #contact-form label{
     font-size: 300%;
@@ -99,6 +99,8 @@ body{
     padding: 3%;
 }
 #terms input[type='checkbox']{
+    background-color: rgb(13, 166, 177);
+    color: rgb(13, 166, 177);
     margin-top: 3%;
     /* font-size: 200%; */
     width: 40%;
@@ -118,7 +120,7 @@ input[type='submit']{
     margin-top: 10%;
     margin-bottom: 3%;
     border-radius: 15px;
-    padding: 5%;
+    padding: 10%;
     position: relative;
     /* animation-name: done; */
     animation-duration: 3s;
