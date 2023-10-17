@@ -80,7 +80,7 @@ body{
 }
 #p1{
     width: 100%;
-    font-size: 230%;
+    font-size: 250%;
     padding: 3%;
     font-family: 'charm';
     font-weight: bolder;
@@ -89,7 +89,7 @@ body{
 }
 
 #p2, #p3{
-    font-size: 180%;
+    font-size: 200%;
     font-family: 'charm';
     font-weight: bolder;
 }
