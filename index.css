@@ -80,7 +80,7 @@ body{
 }
 #p1{
     width: 100%;
-    font-size: 250%;
+    font-size: 230%;
     padding: 3%;
     font-family: 'charm';
     background-color: rgb(13, 166, 177);
@@ -88,7 +88,7 @@ body{
 }
 
 #p2, #p3{
-    font-size: 200%;
+    font-size: 180%;
     font-family: 'charm';
 }
 #terms{
